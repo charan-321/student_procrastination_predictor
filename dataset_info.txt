@@ -1,0 +1,26 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1000 entries, 0 to 999
+Data columns (total 19 columns):
+ #   Column                        Non-Null Count  Dtype  
+---  ------                        --------------  -----  
+ 0   study_hours_per_day           1000 non-null   float64
+ 1   assignment_delay_days         1000 non-null   float64
+ 2   attendance_percentage         1000 non-null   float64
+ 3   study_consistency_score       1000 non-null   float64
+ 4   daily_screen_time_hours       1000 non-null   float64
+ 5   social_media_hours            1000 non-null   float64
+ 6   gaming_hours_per_week         1000 non-null   float64
+ 7   notifications_per_day         1000 non-null   int64  
+ 8   motivation_level              1000 non-null   float64
+ 9   stress_level                  1000 non-null   float64
+ 10  overthinking_score            1000 non-null   float64
+ 11  self_discipline_score         1000 non-null   float64
+ 12  sleep_hours                   1000 non-null   float64
+ 13  exercise_days_per_week        1000 non-null   float64
+ 14  routine_consistency_score     1000 non-null   float64
+ 15  uses_todo_list                1000 non-null   int64  
+ 16  planning_score                1000 non-null   float64
+ 17  avg_task_start_delay_minutes  1000 non-null   float64
+ 18  procrastination_score         1000 non-null   float64
+dtypes: float64(17), int64(2)
+memory usage: 148.6 KB
